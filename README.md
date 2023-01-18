@@ -66,6 +66,12 @@ python3 track.py --source ... --save-txt
 ![](assets/pf3.png)
 ![](assets/pf4.png)
 
+# Applications.
+1. Traffic monitoring.
+2. Vehicle speed detection from traffic camera.
+3. Accident detection.
+4. Environment monitoring for self driving cars.
+5. Object tracking drones.
 
 
 
