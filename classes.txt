@@ -1,0 +1,10 @@
+bus
+bike
+cycle
+cng
+car
+leguna
+rickshaw
+truck
+van
+ambulance
